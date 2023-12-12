@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+}
+main {
+    width: 100%;
+    text-align: center;
+}
+div {
+    width: 70%;
+    margin: 0 auto;
+    height: auto;
+    min-height: 150px;
+    background-color: green;
+}
+h1 {
+    font-size: 3rem;
+    color: red;
+}
+.cabecera p {
+    font-size: 2rem;
+    color: aqua;
+}
+.branch {
+    font-size: 1.6rem;
+    color: blue;
+}
